@@ -1,0 +1,6 @@
+C:\Users\TI\Desktop\Chamados\SistemaChamados\AcessoBancoDados\bin\Debug\AcessoBancoDados.dll.config
+C:\Users\TI\Desktop\Chamados\SistemaChamados\AcessoBancoDados\bin\Debug\AcessoBancoDados.dll
+C:\Users\TI\Desktop\Chamados\SistemaChamados\AcessoBancoDados\bin\Debug\AcessoBancoDados.pdb
+C:\Users\TI\Desktop\Chamados\SistemaChamados\AcessoBancoDados\obj\Debug\AcessoBancoDados.csprojResolveAssemblyReference.cache
+C:\Users\TI\Desktop\Chamados\SistemaChamados\AcessoBancoDados\obj\Debug\AcessoBancoDados.dll
+C:\Users\TI\Desktop\Chamados\SistemaChamados\AcessoBancoDados\obj\Debug\AcessoBancoDados.pdb

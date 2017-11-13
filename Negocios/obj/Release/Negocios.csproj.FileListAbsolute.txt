@@ -1,0 +1,10 @@
+C:\Users\TI\Desktop\Chamados\SistemaChamados\Negocios\bin\Release\Negocios.dll
+C:\Users\TI\Desktop\Chamados\SistemaChamados\Negocios\bin\Release\Negocios.pdb
+C:\Users\TI\Desktop\Chamados\SistemaChamados\Negocios\bin\Release\AcessoBancoDados.dll
+C:\Users\TI\Desktop\Chamados\SistemaChamados\Negocios\bin\Release\ObjetoTransferencia.dll
+C:\Users\TI\Desktop\Chamados\SistemaChamados\Negocios\bin\Release\AcessoBancoDados.pdb
+C:\Users\TI\Desktop\Chamados\SistemaChamados\Negocios\bin\Release\AcessoBancoDados.dll.config
+C:\Users\TI\Desktop\Chamados\SistemaChamados\Negocios\bin\Release\ObjetoTransferencia.pdb
+C:\Users\TI\Desktop\Chamados\SistemaChamados\Negocios\obj\Release\Negocios.csprojResolveAssemblyReference.cache
+C:\Users\TI\Desktop\Chamados\SistemaChamados\Negocios\obj\Release\Negocios.dll
+C:\Users\TI\Desktop\Chamados\SistemaChamados\Negocios\obj\Release\Negocios.pdb

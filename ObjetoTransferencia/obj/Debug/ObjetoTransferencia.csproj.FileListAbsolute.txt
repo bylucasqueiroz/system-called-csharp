@@ -1,0 +1,5 @@
+C:\Users\TI\Desktop\Chamados\SistemaChamados\ObjetoTransferencia\bin\Debug\ObjetoTransferencia.dll
+C:\Users\TI\Desktop\Chamados\SistemaChamados\ObjetoTransferencia\bin\Debug\ObjetoTransferencia.pdb
+C:\Users\TI\Desktop\Chamados\SistemaChamados\ObjetoTransferencia\obj\Debug\ObjetoTransferencia.csprojResolveAssemblyReference.cache
+C:\Users\TI\Desktop\Chamados\SistemaChamados\ObjetoTransferencia\obj\Debug\ObjetoTransferencia.dll
+C:\Users\TI\Desktop\Chamados\SistemaChamados\ObjetoTransferencia\obj\Debug\ObjetoTransferencia.pdb
